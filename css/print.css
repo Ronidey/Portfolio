@@ -1,0 +1,21 @@
+* {
+  color: #000 !important;
+  background-color: #fff !important;
+}
+
+
+section {
+  padding: 2rem !important;
+  min-height: auto !important;
+}
+
+div {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+//span, h1, h2, h3, h4, h5, h6, p, li, a {color: #000 !important;}
+
+.navbar, i {display: none !important;}
+
+svg {filter: grayscale(100%) !important;}
